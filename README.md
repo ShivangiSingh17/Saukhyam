@@ -1,6 +1,13 @@
-# saukhyam
+Through this project our mission is to create environmental, personal and social change through revitalising menstrual practices that are healthy, environmentally sustainable, culturally responsive and empowering.
+While the importance of creating awareness about menstrual health and hygiene is indisputable. Our objective is to create awareness sustainable options available. 
 
-Awareness app for saukhyam
+
+Reading and researching menstruation health and hygiene we realised a need to respond to our general understanding to gain a growing understanding of the holistic nature of this experience along with the development of the menstrual health ecosystem in India where this application can play a good role.
+
+
+# Saukhyam
+
+Awareness app for saukhyam 
 
 ## Getting Started
 
